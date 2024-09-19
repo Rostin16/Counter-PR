@@ -16,6 +16,7 @@ export default function Counter() {
         style={{
           marginRight: "50px",
           backgroundColor: "orange",
+          color:'white',
           borderRadius: "5px",
           padding: "5px",
           fontSize: "20px",
@@ -28,7 +29,8 @@ export default function Counter() {
       <button
         style={{
           marginRight: "50px",
-          backgroundColor: "yellow",
+          backgroundColor: "orange",
+          color:'white',
           borderRadius: "5px",
           padding: "5px",
           fontSize: "20px",
