@@ -15,7 +15,7 @@ export default function Counter() {
       <button
         style={{
           marginRight: "50px",
-          backgroundColor: "yellow",
+          backgroundColor: "orange",
           borderRadius: "5px",
           padding: "5px",
           fontSize: "20px",
